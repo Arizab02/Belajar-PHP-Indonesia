@@ -10,13 +10,13 @@
 
 XAMPP adalah software untuk menginstall satu paket pengembangan dalam satu instalasi, jadi kamu ngga perlu menginstall satu satu secara manual.  
 
-Kamu bisa mendapatkannya di web official [**XAMPP**] (https://www.apachefriends.org/download.html) disini.
+Kamu bisa mendapatkannya di web official [**XAMPP**](https://www.apachefriends.org/download.html) disini.
 
 Adapun untuk windows pihak XAMPP menyediakan versi khusus yaitu WAMPP, dan MAMPP untuk MacOS meskipun secara fungsi masih sama dengan XAMPP
 
 ### Install menggunakan Laragon
 
-Untuk Laragon sendiri memiliki fungsi yang hampir sama dengan XAMPP, dan kamu bisa dapatkan [**Laragon**] (https://laragon.org/download/) disini.
+Untuk Laragon sendiri memiliki fungsi yang hampir sama dengan XAMPP, dan kamu bisa dapatkan [**Laragon**](https://laragon.org/download/) disini.
 
 ### Install PHP
 
@@ -49,4 +49,6 @@ Ada banyak pilihan untuk menjalankan server di lokal, salat satunya menggunakan 
 
 install apache2
 
-```script sudo apt install apache2
+```script
+sudo apt install apache2
+```
