@@ -47,4 +47,4 @@ maka kamu bisa menggunakan `<?php` saja tanpa penutup tag, contoh :
  //sampai ke bawah
 ```
 
-[halaman selanjutnya -->](#)
+[halaman selanjutnya -->]('02 instalasi PHP.md')
