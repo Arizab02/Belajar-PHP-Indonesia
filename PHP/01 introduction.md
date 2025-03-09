@@ -31,20 +31,5 @@ Adalah suatu script untuk menghias web yan gsudah dirancang oleh HTML menjadi le
 echo 'hello world';  
 ```
 
-### Catatan :
 
-Setiap file di `.php` harus diawali dengan `<?php...?>` apabila tidak diharuskan untuk menggunakan bahasa lain seperti :  
-
-- HTML
-- CSS
-- JS  
-
-maka kamu bisa menggunakan `<?php` saja tanpa penutup tag, contoh :  
-
-```php 
-<?php
- //code kamu
- //sampai ke bawah
-```
-
-[halaman selanjutnya -->]('02 instalasi PHP.md')
+[berikutnya : Instalasi PHP](02%20instalasi%20PHP.md)

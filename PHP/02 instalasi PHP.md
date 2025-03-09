@@ -36,7 +36,7 @@ Untuk Debian dan turunanya :
 
 ```shell
 sudo apt install composer
-````
+```
 
 dan untuk mengecek versi yang sudah terinstall 
 
@@ -49,6 +49,9 @@ Ada banyak pilihan untuk menjalankan server di lokal, salat satunya menggunakan 
 
 install apache2
 
-```script
+```shell
 sudo apt install apache2
 ```
+kalau sudah terinstall semua kalian bisa langsung saja buat program baru menggunakan ekstensi `.php`  
+
+| [sebelumnya: Introduction](01%20introduction.md) | [berikutnya: Sintaks Dasar](03%20Sintaks%20Dasar.md)  |
