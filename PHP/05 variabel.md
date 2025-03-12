@@ -44,3 +44,5 @@ berapaX() // Output : 15
 echo $x; // Output : 12
 ```
 
+| [sebelumnya: komentar](04%20komentar.md) |
+[berikutnya : Output](06%20Output.md) |
